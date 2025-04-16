@@ -1,10 +1,10 @@
 ## Descrição do Problema
 
-Um programa para identificar "elementos-gema" em coleções de rochas.
+Um programa para identificar "Gemstones" em coleções de rochas.
 
 ## Contexto
 
-Juninho descobriu várias rochas. Cada rocha é composta por vários elementos, e cada elemento é representado por uma letra minúscula latina de 'a' a 'z'. Um elemento pode estar presente diversas vezes em uma rocha. Um elemento é chamado de "elemento-gema" se ocorrer pelo menos uma vez em cada uma das rochas.
+Juninho descobriu várias rochas. Cada rocha é composta por vários elementos, e cada elemento é representado por uma letra minúscula latina de 'a' a 'z'. Um elemento pode estar presente diversas vezes em uma rocha. Um elemento é chamado de "Gemstone" se ocorrer pelo menos uma vez em cada uma das rochas.
 
 O objetivo é calcular quantos tipos diferentes de elementos-gema Juninho tem em sua coleção.
 
@@ -17,7 +17,7 @@ O objetivo é calcular quantos tipos diferentes de elementos-gema Juninho tem em
 - O comprimento de cada composição varia entre 1 e 100 caracteres
 
 ### Saída
-- Um único inteiro representando o número de diferentes tipos de elementos-gema encontrados
+- Um único inteiro representando o número de diferentes tipos de Gemstones encontrados
 
 ## Exemplo
 
@@ -35,4 +35,4 @@ eeabg
 ```
 
 ### Explicação
-No exemplo acima, apenas "a" e "b" são elementos-gema, pois são os únicos elementos presentes em todas as três rochas.
+No exemplo acima, apenas "a" e "b" são Gemstones, pois são os únicos elementos presentes em todas as três rochas.
